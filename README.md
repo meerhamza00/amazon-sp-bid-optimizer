@@ -49,7 +49,7 @@ Step 3: Create Your Files
 
 2. Prepare your input file:
    - Export your bulksheet(whatever date range u want)
-   - Select Sponosred Products , and filter and take only keyword and product targeting
+   - Select Sponsored Products , and filter and take only keyword and product targeting
    - Exclude whatever campaigns u dont want to optimize or bid changes , also exclude paused campaigns and paused keywords/targets
    - Copy this file into your "AmazonBidOptimizer" folder
    - Rename it to yourinput_file.csv ( make sure its csv or the code wont read it)
