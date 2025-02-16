@@ -219,13 +219,7 @@ After a successful run, the script will create **two output files** in your `Ama
 
 ... (rest of "Updates and Maintenance" section remains the same) ...
 
-We hope this comprehensive guide helps you effectively use the Amazon Sponsored Products Bid Optimizer to improve your campaign performance and save valuable time. Happy optimizing!
-=======
-# amazon-sp-bid-optimizer
-Open-source Python script to automate and optimize bids for Amazon Sponsored Products campaigns. 
+We hope this comprehensive guide helps you effectively use the Amazon Sponsored Products Bid Optimizer to improve your campaign performance and save valuable time. 
 
-Bid Optimization via bulk Upload operations. 
-1) First download file.
-2) Provide this to the script.
-3) It will generate a ready-to-upload file for optimization.
->>>>>>> 1b39203af90f110e64e1d9deed5493e47baaeebb
+Happy optimizing!
+=======
