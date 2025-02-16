@@ -1,6 +1,6 @@
 # Amazon Sponsored Products Bid Optimizer - User Guide (Comprehensive Edition)
 
-**Your Smart Assistant for Amazon Ads - Optimize Bids, Save Time, Boost Performance!**
+Your Smart Assistant for Amazon Ads - Optimize Bids, Save Time, Boost Performance!
 
 This guide provides a complete walkthrough on how to set up and use the Amazon Sponsored Products Bid Optimizer script.  We've designed this tool to be as user-friendly as possible, even if you have little to no experience with coding or technical software.  Let's get started and unlock the potential of your Amazon advertising!
 
@@ -220,3 +220,12 @@ After a successful run, the script will create **two output files** in your `Ama
 ... (rest of "Updates and Maintenance" section remains the same) ...
 
 We hope this comprehensive guide helps you effectively use the Amazon Sponsored Products Bid Optimizer to improve your campaign performance and save valuable time. Happy optimizing!
+=======
+# amazon-sp-bid-optimizer
+Open-source Python script to automate and optimize bids for Amazon Sponsored Products campaigns. 
+
+Bid Optimization via bulk Upload operations. 
+1) First download file.
+2) Provide this to the script.
+3) It will generate a ready-to-upload file for optimization.
+>>>>>>> 1b39203af90f110e64e1d9deed5493e47baaeebb
